@@ -1,0 +1,85 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    padding: 0;
+    background-color: rgb(206, 216, 221);
+    border-style: groove;
+    border-radius: 10px;
+
+}
+h1{
+    font-family: sans-serif;
+    border-style: groove;
+    border-color: rgb(128, 128, 184);
+    border-radius: 5px;
+    font-family:sans ;
+    text-align: center;
+    margin-bottom: 20px;
+
+    
+}
+input{
+    border-radius: 2px;
+    margin: 10px;
+    background-color: rgb(220, 220, 223);
+
+}
+form{
+    max-width: 600px;
+    margin: 0;
+    border-radius: 8px;
+  
+}
+ fieldset{
+    border-radius: 8px;
+    border: solid rgb(70, 70, 120);
+    background-color: rgb(198, 204, 208);
+    
+    
+    margin: 5px;
+ }
+ textarea{
+    border-radius: 4px;
+    background-color: rgb(220, 220, 223);
+    width: 70%;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin: 20px;
+ }
+ button{
+    margin: 5px;
+    text-align: center;
+    border: 5cap;
+    color: rgb(27, 20, 33);
+    text-decoration: dotted;
+    background-color: rgb(54, 125, 125);
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+
+
+ }
+
+
+    
+    
+
+fieldset{
+    margin: 0;
+    padding: 0;
+}
+
+
+button{
+    cursor: pointer;
+    font-size: 18px;
+    border: solid;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+
+}
+button:hover{
+    background-color: rgb(149, 125, 171);
+
+}
